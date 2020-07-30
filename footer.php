@@ -113,7 +113,7 @@
 							</ul>
 							<?php
 						}// End if().
-						echo do_shortcode( '[mailmunch-form id="752147"]' );
+						//echo do_shortcode( '[mailmunch-form id="752147"]' );
 				?>
 
 			</div><!-- .footer-bottom-wrap -->
